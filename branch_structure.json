@@ -1,0 +1,21 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "origin",
+    "solver/issue-443-125-a0",
+    "solver/issue-524-110-a0"
+  ],
+  "parent": {
+    "develop": null,
+    "origin": "develop",
+    "solver/issue-443-125-a0": "develop",
+    "solver/issue-524-110-a0": "develop"
+  },
+  "order": [
+    "develop",
+    "origin",
+    "solver/issue-443-125-a0",
+    "solver/issue-524-110-a0"
+  ]
+}
